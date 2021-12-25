@@ -61,8 +61,6 @@ body > .page > section {
 #app3 > .square.active {
   transform: translateX(15vw);
 }
-#app4 {
-}
 @keyframes change {
   0% {
     background: red;
